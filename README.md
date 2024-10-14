@@ -14,7 +14,7 @@ This project involves improving the Facebook interface with two key features: **
    - **Photo Preferences**: Show user preferences regarding photo uploads (e.g., most common type of photo).
    - **Activity Pattern**: Track user activity and post frequency, including the most active hour of posting.
 
-![Personality Insights](screenshots/Screenshot_2024-10-14_115600.png)
+![Personality Insights](screenshots/PersonalityInsights.png)
 *An example of Personality Insights showing top topics, sentiment score, and more.*
 
 ---
@@ -25,7 +25,7 @@ This project involves improving the Facebook interface with two key features: **
    - **Goal Sharing**: Allow users to share their progress with friends on Facebook.
    - **Design Pattern**: Implements the **Observer** pattern to notify users about related content and **Strategy** pattern for different goal categories.
 
-![Personal Goal Tracker](screenshots/Screenshot_2024-10-14_115705.png)
+![Personal Goal Tracker](screenshots/PersonalGoalTracker.png)
 *An example of the Personal Goal Tracker where users can manage their goals and receive relevant suggestions.*
 
 ---
